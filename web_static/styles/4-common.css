@@ -23,3 +23,7 @@ button {
 	float: right;
 	margin: 11px 30px;
 }
+
+button:hover {
+	opacity: 90%;
+}

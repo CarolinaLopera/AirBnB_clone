@@ -6,4 +6,7 @@ footer {
 	left: 0;
 	bottom: 0;
 	border-top: 1px solid #CCCCCC;
+	align-items: center;
+	display: flex;
+	justify-content: center;
 }
