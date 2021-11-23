@@ -13,7 +13,7 @@
 
 	display: inline-block;
 	text-align: justify;
-	position: relative;
+	/* position: relative; */
 }
 
 .amenities {
@@ -75,4 +75,21 @@ h4 {
  	color: #484848;
 	border: 1px solid #DDDDDD;
 	opacity: 100%;
+	position: relative;
+}
+
+button {
+	font-size: 18px;
+	background-color: #FF5A5F;
+	color: #FFFFFF;
+	height: 48px;
+	width: 20%;
+	border: 0ch;
+	border-radius: 4px;
+	float: right;
+	margin: 11px 30px;
+}
+
+button:hover {
+	opacity: 90%;
 }
