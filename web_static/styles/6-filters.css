@@ -48,15 +48,18 @@ h4 {
 	border: 1px solid white;
 	border-radius: 4px;
 	width: 100%;
+	margin-left: -49px;
 }
 
 .locations .popover {
 	margin-top: 22px;
+	margin-left: -49px;
+	padding-right: 49px;
 }
 
 .amenities .popover {
 	margin-top: 30px;
-	padding-top: 59px;
+	padding-top: 59px
 }
 
 .locations li {
