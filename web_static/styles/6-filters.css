@@ -26,7 +26,7 @@
 	margin-right: 90px;
 }
 
-h2 {
+.locations h2 {
 	font-size: 16px;
 	line-height: 10px;
 }
@@ -59,13 +59,17 @@ h4 {
 
 .amenities .popover {
 	margin-top: 30px;
-	padding-top: 59px
+	padding-top: 59px;
 }
 
 .locations li {
 	display: block;
 	margin-left: 15px;
 	margin-bottom: 8px;
+}
+
+.locations li h2 {
+	margin-left: -20px;
 }
 
 .amenities li {
